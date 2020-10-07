@@ -66,7 +66,7 @@ if __name__ == "__main__":
     # Sign-in to the system
     session.Login(API_USERNAME, API_PASSWORD)
 
-    # Call a method: Get list of CPs
+    # Call a method: Get list of Meters
     meter_list = session.GetMeters(COMMUNICATION_PATH_ID)
     for meter in meter_list:    	
     	print('Meter:', meter['name'])
