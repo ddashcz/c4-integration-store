@@ -1,2 +1,1 @@
-# c4-integration-store
-Converge 4 - Integration 
+# Converge 4 Integration Store
