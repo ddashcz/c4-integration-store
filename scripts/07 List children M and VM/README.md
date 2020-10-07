@@ -15,11 +15,15 @@ All scrips reads authentication information from environment variables.
 
 * Requires Python 3
 
+The script allows to override environment variables for username and password by first two arguments.
+
 > python ./main.py [username [password]]
 
 ### PowerShell
 
-> pwsh main.ps1
+The script allows to override environment variables for username and password by first two arguments.
+
+> pwsh main.ps1 [username [password]]
 
 ### VBScript
 
