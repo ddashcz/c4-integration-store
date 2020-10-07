@@ -4,7 +4,7 @@ Basic script providing list of meter and virtual meters under given communicatio
 
 ## How to run
 
-All scrips reads authentication information from environment variables.
+All scripts reads authentication information from environment variables.
 
 |Environment variable name|Value description|
 |-|-|
